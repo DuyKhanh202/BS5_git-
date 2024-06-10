@@ -15,3 +15,4 @@ git log : kiểm tra các lịch sử  commit
 - git checkout -b branch : tạo 1 nhánh mới  và chuyển sang nhánh được tạo mới 
 - git checkout  branch : chuyển sang nhánh đã được tạo trước đó 
 
+commit trước khi tạo nhánh tránh trường  hợp mất code
