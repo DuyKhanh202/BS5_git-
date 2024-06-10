@@ -11,7 +11,10 @@ git push : đưa source từ local lên remote
   step 3: git push -u origin master (đẩy lần đầu / master là tên nhánh )
           git push ( lần 2 trở đi, sau khi trên github đã có nhánh master)
 git log : kiểm tra các lịch sử  commit
-
+        Branch
 - git checkout -b branch : tạo 1 nhánh mới /commit trước khi tạo nhánh tránh trường  hợp mất code
 - git checkout  branch : chuyển sang nhánh đã được tạo trước đó 
+
+        merge
+        
 
